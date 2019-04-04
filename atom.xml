@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wei&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.dev4wei.cn/"/>
+  <updated>2019-04-04T09:50:16.548Z</updated>
+  <id>http://blog.dev4wei.cn/</id>
+  
+  <author>
+    <name>Wei Wei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+Next+GitHub搭建博客</title>
+    <link href="http://blog.dev4wei.cn/Hexo-Next-GitHub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blog.dev4wei.cn/Hexo-Next-GitHub搭建博客/</id>
+    <published>2019-04-03T08:39:41.000Z</published>
+    <updated>2019-04-04T09:50:16.548Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">https://hexo.io/zh-cn/</a></p><h2 id="Next"><a href="#Next" class="headerlink" title="Next"></a>Next</h2><p><a href="https://theme-next.org/" target="_blank" rel="noopener">https://theme-next.org/</a></p><h2 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h2><p><a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">hexo史上最全搭建教程</a><br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="控制长度"><a href="#控制长度" class="headerlink" title="控制长度"></a>控制长度</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- more --&gt;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo.io/zh-cn/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Next&quot;&gt;&lt;a href=&quot;#Next&quot; class=&quot;headerlink&quot; title=&quot;Next&quot;&gt;&lt;/a&gt;Next&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://theme-next.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://theme-next.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Github&quot;&gt;&lt;a href=&quot;#Github&quot; class=&quot;headerlink&quot; title=&quot;Github&quot;&gt;&lt;/a&gt;Github&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/sinat_37781304/article/details/82729029&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hexo史上最全搭建教程&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="IT技术" scheme="http://blog.dev4wei.cn/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Hexo" scheme="http://blog.dev4wei.cn/tags/Hexo/"/>
+    
+      <category term="Next" scheme="http://blog.dev4wei.cn/tags/Next/"/>
+    
+      <category term="GitHub" scheme="http://blog.dev4wei.cn/tags/GitHub/"/>
+    
+  </entry>
+  
+</feed>
